@@ -1,7 +1,7 @@
-package com.sandbox.playground1.dao.repository.ychord;
+package com.sandbox.playground1.repository.ychord;
 
 import com.sandbox.playground1.config.AppConfig;
-import com.sandbox.playground1.dao.entity.ychord.MstChord;
+import com.sandbox.playground1.model.ychord.MstChord;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;

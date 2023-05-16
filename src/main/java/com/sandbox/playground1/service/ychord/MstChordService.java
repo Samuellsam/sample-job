@@ -1,7 +1,7 @@
 package com.sandbox.playground1.service.ychord;
 
-import com.sandbox.playground1.dao.entity.ychord.MstChord;
-import com.sandbox.playground1.dao.repository.ychord.MstChordRepository;
+import com.sandbox.playground1.model.ychord.MstChord;
+import com.sandbox.playground1.repository.ychord.MstChordRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

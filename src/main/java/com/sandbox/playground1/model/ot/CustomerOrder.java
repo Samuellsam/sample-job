@@ -1,4 +1,4 @@
-package com.sandbox.playground1.model;
+package com.sandbox.playground1.model.ot;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

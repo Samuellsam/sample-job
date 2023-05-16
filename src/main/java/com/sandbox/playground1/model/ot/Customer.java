@@ -1,4 +1,4 @@
-package com.sandbox.playground1.dao.entity.ot;
+package com.sandbox.playground1.model.ot;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

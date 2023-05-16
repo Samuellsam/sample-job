@@ -1,21 +1,13 @@
 package com.sandbox.playground1;
 
-import com.sandbox.playground1.dao.entity.ot.Customer;
-import com.sandbox.playground1.dao.entity.ychord.MstChord;
-import com.sandbox.playground1.model.CustomerOrder;
 import com.sandbox.playground1.service.ot.CustomerService;
 import com.sandbox.playground1.service.ot.OrderService;
 import com.sandbox.playground1.service.ychord.MstChordService;
-import com.sandbox.playground1.util.UuidUtil;
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
 import javax.annotation.PostConstruct;
-import java.math.BigDecimal;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 
 @SpringBootApplication
 public class Playground1Application {

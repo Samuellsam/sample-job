@@ -1,4 +1,4 @@
-package com.sandbox.playground1.dao.entity.ychord;
+package com.sandbox.playground1.model.ychord;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

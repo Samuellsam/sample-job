@@ -1,6 +1,6 @@
 package com.sandbox.playground1.util.mapper;
 
-import com.sandbox.playground1.model.CustomerOrder;
+import com.sandbox.playground1.model.ot.CustomerOrder;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;

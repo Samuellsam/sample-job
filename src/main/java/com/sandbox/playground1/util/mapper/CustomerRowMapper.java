@@ -1,6 +1,6 @@
 package com.sandbox.playground1.util.mapper;
 
-import com.sandbox.playground1.dao.entity.ot.Customer;
+import com.sandbox.playground1.model.ot.Customer;
 import org.springframework.jdbc.core.RowMapper;
 
 import java.sql.ResultSet;

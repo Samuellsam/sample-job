@@ -1,7 +1,7 @@
-package com.sandbox.playground1.dao.repository.ot;
+package com.sandbox.playground1.repository.ot;
 
 import com.sandbox.playground1.config.AppConfig;
-import com.sandbox.playground1.dao.entity.ot.Customer;
+import com.sandbox.playground1.model.ot.Customer;
 import com.sandbox.playground1.util.mapper.CustomerRowMapper;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.jdbc.core.JdbcTemplate;

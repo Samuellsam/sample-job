@@ -1,7 +1,7 @@
 package com.sandbox.playground1.service.ot;
 
-import com.sandbox.playground1.dao.entity.ot.Customer;
-import com.sandbox.playground1.dao.repository.ot.CustomerRepository;
+import com.sandbox.playground1.model.ot.Customer;
+import com.sandbox.playground1.repository.ot.CustomerRepository;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
